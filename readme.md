@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
@@ -7,16 +7,6 @@
 # React-Use-File
 
 > Simple way to manage your file states
-
-
-![](https://img.shields.io/github/license/sergiopallet/react-use-file?style=plastic)
-
-
-
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
 
 ---
 
@@ -61,22 +51,19 @@ const useFileConfig = {
 - All the `code` required to get started
 - Images of what it should look like
 
-### Clone
+<!-- ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO` -->
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
 
 ```shell
 $ brew update
 $ brew install fvcproductions
 ```
 
-> now install npm and bower packages
+> install npm and bower packages
 
 ```shell
 $ npm install
@@ -123,7 +110,7 @@ This will erase all the data inside files state
 State with the files errors
 
 
----
+<!-- ---
 
 ## Support
 
@@ -133,7 +120,9 @@ Reach out to me at one of the following places!
 - Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
 - Insert more social links here.
 
----
+--- -->
+
+
 
 <!-- ## Donations (Optional)
 
