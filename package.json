@@ -1,0 +1,20 @@
+{
+  "name": "react-use-file",
+  "version": "1.0.0",
+  "description": "Useful to manage file state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiopallet/react-use-file.git"
+  },
+  "keywords": ["react-use-file", "hook", "react-file", "react-hook-file"],
+  "author": "Sergio Pallet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiopallet/react-use-file/issues"
+  },
+  "homepage": "https://github.com/sergiopallet/react-use-file#readme"
+}
