@@ -36,7 +36,7 @@ function reducer(state, action) {
   }
 }
 
-export const useFile = (props) => {
+export const UseFile = (props) => {
   const inicialState = {
     files: [],
     errors: [],
