@@ -57,20 +57,13 @@ const useFileConfig = {
 
 ### Setup
 
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
 > install npm and bower packages
 
 ```shell
-$ npm install
-$ bower install
+$ npm install react-use-files
+
 ```
 
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
 ---
 
